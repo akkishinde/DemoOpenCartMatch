@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="genre">#666666</color>
+    <color name="year">#888888</color>
+    <color name="list_item_title">#ffffff</color>
+    <color name="list_background">#147f8f</color>
+    <color name="list_background_pressed">#dbfdaf</color>
+    <color name="list_divider">#272727</color>
+    <color name="counter_text_bg">#ffffff</color>
+    <color name="counter_text_color">#4e3e22</color>
+    <color name="list_row_start_color">#ffffff</color>
+    <color name="list_row_end_color">#ffffff</color>
+    <color name="list_row_hover_start_color">#ffffff</color>
+    <color name="list_row_hover_end_color">#ffffff</color>
+    <color name="edt_pressed">#e21d53</color>
+    <color name="edt_focused">#d1d1d1</color>
+    <color name="edt_default">#ffffff</color>
+    <color name="action">#73880a</color>
+    <color name="Gray">#6d6b6b</color>
+    <color name="blue">#0000ff</color>
+    <color name="red">#6495ed</color>
+     <color name="my_bluish_color">#4e3e22</color>
+    
+
+    
+</resources>

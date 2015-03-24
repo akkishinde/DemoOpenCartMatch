@@ -1,0 +1,30 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_settings"/>
+
+    <TextView
+        android:id="@+id/status_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal" />
+
+    <imageview
+        android:id="@+id/action_search"
+        android:icon="@drawable/search_ic"
+        android:showAsAction="ifRoom"
+         android:gravity="end" 
+        android:title="@string/search" />
+
+  <!--   <item
+        android:id="@+id/action_cart"
+        android:layout_alignParentRight="true"
+        android:gravity="end" 
+        android:icon="@drawable/cart_ic"
+        android:showAsAction="ifRoom"
+        android:title="Carts"/> -->
+
+</menu>

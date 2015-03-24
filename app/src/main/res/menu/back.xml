@@ -1,0 +1,12 @@
+
+    <menu xmlns:android="http://schemas.android.com/apk/res/android">
+        
+        
+    <item
+        android:id="@+id/action_back"
+        android:actionViewClass="android.widget.SearchView"
+        android:icon="@drawable/arrow_left_white"
+        android:showAsAction="always"
+        android:title="Search"/>
+        
+    </menu>
